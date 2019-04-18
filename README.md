@@ -1,3 +1,3 @@
 # DjangoPractice
 
-Learning Django with a tuturial from Corey Schafer
+Learning Django with a tutorial from Corey Schafer
